@@ -1,0 +1,50 @@
+body
+{
+	background-image: url("../images/library_background.jpg");
+	background-size: cover;
+	margin: 0px;
+	padding: 0px;
+}
+
+#main
+{
+	width: 80%;
+	min-height: 10px;
+	background-color: #EEEEEE;
+	margin: auto;
+	border: 1px black solid;
+	margin-bottom: 10px;
+}
+
+#logo
+{
+	height: 250px;
+	background-image: url("../images/logo.png");
+	background-size: 400px;
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-color: cornflowerblue;
+}
+
+nav
+{
+		background-color: blue;
+
+}
+
+nav a 
+{
+	display: inline-block;
+	color: white;
+	text-align: center;
+	padding : 14px 16px;
+	text-decoration: underline;
+}
+
+footer
+{
+	text-align: center;
+	background-color: DarkGreen;
+	padding: 5px;
+	color: white;
+}
